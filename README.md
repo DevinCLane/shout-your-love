@@ -1,1 +1,2 @@
-# shout-your-love
+# Shout your love.
+Receive love, loudly.
